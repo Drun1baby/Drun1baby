@@ -20,4 +20,4 @@
 - 📫 How to reach me **2717763591@qq.com**
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
+[![Drun1baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
