@@ -3,6 +3,7 @@
 
 取名 Drunk 是因为有段时间太喜欢喝酒了，不过掐指一算好久未饮了
 </br>
+
 取名 baby 还是想让自己多多保持一些少年气；
 </br>
 
@@ -21,3 +22,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
