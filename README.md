@@ -19,8 +19,5 @@
 
 - 📫 How to reach me **2717763591@qq.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
