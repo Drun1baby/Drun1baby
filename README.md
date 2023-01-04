@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drunkbaby</h1>
 <h3 align="center">双非二本，菜的雅痞ww</h3>
 
-取名 Drunk 是因为有段时间太喜欢喝酒了，不过掐指一算好久未饮了
+取名 Drunk 是因为有段时间太喜欢喝酒了
 </br>
 
 取名 baby 还是想让自己多多保持一些少年气；
