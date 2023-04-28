@@ -10,7 +10,15 @@
 - 💬 Ask me about **JavaSec**
 
 - 📫 How to reach me **drun1baby@qq.com**
-- QQ: MjcxNzc2MzU5MQ==
 
+FROM Nepnep
+
+也可以喊我小叮
+
+QQ: MjcxNzc2MzU5MQ==
+
+WeChat: DrunkbabySec
+
+最近在学习 Java 方向
 
 [![Drun1baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
