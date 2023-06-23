@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Drunkbaby</h1>
-<h3 align="center">双非二本，菜的雅痞ww</h3>
 
 - 🔭 大三在读 **Cuz**
 
