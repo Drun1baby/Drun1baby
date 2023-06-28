@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaSec，以及一些其他的方向（如果不犯懒癌**
 
-- 📝 I regularly write articles on [https://drun1baby.github.io/](https://drun1baby.github.io/)
+- 📝 I regularly write articles on [https://drun1baby.top/](https://drun1baby.top/)
 
 - 💬 Ask me about **JavaSec**
 
