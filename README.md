@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **drun1baby@qq.com**
 
-FROM **Nepnep**
-
 也可以喊我小叮
 
 - QQ: MjcxNzc2MzU5MQ==
