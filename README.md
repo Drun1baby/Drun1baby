@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Drunkbaby</h1>
 
-- 🔭 大三在读 **Cuz**
-
 - 🌱 I’m currently learning **JavaSec，以及一些其他的方向（如果不犯懒癌**
 
 - 📝 I regularly write articles on [https://drun1baby.top/](https://drun1baby.top/)
