@@ -16,4 +16,3 @@
 
 最近在学习 Java 安全方向
 
-[![Drun1baby's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drun1baby)](https://github.com/anuraghazra/github-readme-stats)
