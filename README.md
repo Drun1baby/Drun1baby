@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Drunkbaby</h1>
 
-- 📝 I regularly write articles on [https://drun1baby.top/](https://drun1baby.top/)
+- 📝 Blog：https://drun1baby.top
+- 🚩 CTF Player | Chess Semi-Pro
 - QQ: MjcxNzc2MzU5MQ==
 - WeChat: DrunkbabySec
 
